@@ -10,9 +10,6 @@ function describeCollection(array) {
     console.log(
       chalk.bgWhite.green(`I collect them because ${array[index].whatILike}.`)
     );
-    // console.log(
-    //   ` `
-    // );
   }
 }
 

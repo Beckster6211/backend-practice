@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "create-table": "node db/scripts/create_table.js",
+    "populate-table": "node db/scripts/upload_collection.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
